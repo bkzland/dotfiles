@@ -2,3 +2,10 @@ syntax on
 
 " Wrap gitcommit file types at the appropriate length
 filetype indent plugin on
+
+" I want numbers
+set number
+
+" I like colors
+colorscheme slate
+
